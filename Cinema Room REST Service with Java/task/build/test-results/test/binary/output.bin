@@ -1,26 +1,0 @@
-[1;31m
-Start test 1[0m
-[0;34m
-3[0m[0;34m  .   ____          _            __ _ _
-4[0m[0;34m /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
-5[0m[0;34m( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
-6[0m[0;34m \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
-5[0m[0;34m  '  |____| .__|_| |_|_| |_\__, | / / / /
-4[0m[0;34m =========|_|==============|___/=/_/_/_/
-6[0m[0;34m :: Spring Boot ::                (v3.2.0)
-[0m[0;34m
-≤[0m[0;34m2025-06-22T14:16:35.375+08:00  INFO 55140 --- [    Test worker] cinema.Main                              : Starting Main using Java 21.0.6 with PID 55140 (started by dhairyapatel in /Users/dhairyapatel/Desktop/Projects/Cinema Room REST Service with Java/Cinema Room REST Service with Java/task)
-∫[0m[0;34m2025-06-22T14:16:35.376+08:00  INFO 55140 --- [    Test worker] cinema.Main                              : No active profile set, falling back to 1 default profile: "default"
-†[0m[0;34m2025-06-22T14:16:35.799+08:00  INFO 55140 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 28852 (http)
-ê[0m[0;34m2025-06-22T14:16:35.804+08:00  INFO 55140 --- [    Test worker] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-ß[0m[0;34m2025-06-22T14:16:35.804+08:00  INFO 55140 --- [    Test worker] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.16]
-©[0m[0;34m2025-06-22T14:16:35.824+08:00  INFO 55140 --- [    Test worker] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-µ[0m[0;34m2025-06-22T14:16:35.825+08:00  INFO 55140 --- [    Test worker] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 434 ms
-¨[0m[0;34m2025-06-22T14:16:36.030+08:00  INFO 55140 --- [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
-Ø[0m[0;34m2025-06-22T14:16:36.053+08:00  INFO 55140 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 28852 (http) with context path ''
-∞[0m[0;34m2025-06-22T14:16:36.064+08:00  INFO 55140 --- [    Test worker] cinema.Main                              : Started Main in 0.819 seconds (process running for 1.109)
-¨[0;34m2025-06-22T14:16:36.202+08:00  INFO 55140 --- [io-28852-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
-ü[0m[0;34m2025-06-22T14:16:36.202+08:00  INFO 55140 --- [io-28852-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-ó[0m[0;34m2025-06-22T14:16:36.203+08:00  INFO 55140 --- [io-28852-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
-[0m[1;31m
-Start test 2[0m
